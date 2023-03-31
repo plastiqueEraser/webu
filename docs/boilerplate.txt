@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="./dist/output.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>南国のシーザーサラダ</title>
+    </head>
+    <body>
+        <header>
+            <img id="salad" src="/img/logo-1.png" alt="南国のシーザーサラダ">
+        </header>
+        <nav class="nav">
+            <a class="navlink" id="home" href="index.html">ホーム</a>
+            <a class="navlink" id="projects" href="#">ブログ</a>
+            <a class="navlink" id="contact" href="#">お問い合わせ</a>
+        </nav>
+        <main>
+            <section>
+            </section>
+        </main>
+    </body>
+</html>

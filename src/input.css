@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: Noto_Sans_JP;
+    src: url(/font/Noto_Sans_JP/NotoSansJP-Medium.otf);
+}
+@font-face {
+    font-family: umeboshi;
+    src: url(/font/umeboshifont/umeboshi_.ttf);
+}
